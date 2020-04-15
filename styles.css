@@ -374,10 +374,10 @@ form textarea {
     }
     .showcase-content p {
         font-size: 2.3rem;
-        margin-top: 1.5rem;
+        margin-top: 1.2rem;
         letter-spacing: 1px;
         font-weight: lighter;
-        padding: 1rem;
+        padding: 1.5rem;
     }
     .btn-xl {
         font-size: 2rem;
@@ -416,10 +416,10 @@ form textarea {
         margin: 5px 0;
     }
     footer {
-        margin-top: 20px;
+        margin-top: 30px;
     }
     .form-btn {
         display: block;
-        width: 50%;
+        width: 30%;
     }
 }
