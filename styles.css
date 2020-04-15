@@ -249,7 +249,7 @@ footer {
     width: 100%;
     background: #f2f2f2;
     color: #333;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .main-content {
@@ -329,7 +329,7 @@ form textarea {
     border: none;
     outline: none;
     font-size: 1.2rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--content-font);
     font-weight: 300;
     margin-top: 5px;
     padding: 10px;
